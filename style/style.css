@@ -137,6 +137,8 @@ header nav .logo h3 {
   width: 50%;
 }
 .loveenjoy .container .love-content h2 {
+  border-left: 3px solid var(--common-color);
+  padding-left: 10px;
   font-weight: 700;
   font-size: 45px;
   color: var(--black-color);
